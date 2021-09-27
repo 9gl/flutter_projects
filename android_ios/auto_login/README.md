@@ -19,4 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="https://github.com/9gl/flutter_projects/blob/main/android_ios/auto_login/output/Screenshot_1632732168.png" width=50% height=50%>
 <!-- ![](https://github.com/9gl/flutter_projects/blob/main/android_ios/auto_login/output/Screensh -->
-![](https://github.com/9gl/flutter_projects/blob/main/android_ios/auto_login/output/Screenshot_1632732216.png)
+<img src="https://github.com/9gl/flutter_projects/blob/main/android_ios/auto_login/output/Screenshot_1632732216.png" width=50% height=50%>
+<!-- ![](https://github.com/9gl/flutter_projects/blob/main/android_ios/auto_login/output/Screenshot_1632732216.png) -->
