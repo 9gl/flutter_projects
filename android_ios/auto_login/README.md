@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Local Storage (Shared Preferences) — Auto Login
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screen Shots
 
+![](https://github.com/9gl/flutter_projects/blob/main/android_ios/auto_login/output/Screenshot_1632732168.png)
+![](https://github.com/9gl/flutter_projects/blob/main/android_ios/auto_login/output/Screenshot_1632732216.png)
