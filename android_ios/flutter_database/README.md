@@ -1,10 +1,10 @@
-# auto_login
+# flutter_database
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a Local Storage (Shared Preferences) — Auto Login
+This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,9 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-## Screen Shots
-
-<img src="https://user-images.githubusercontent.com/67200542/134881987-480db5af-104e-412b-b3d4-fb94862ae9e9.png" width=50% height=50%>
-<img src="https://user-images.githubusercontent.com/67200542/134882123-1356b1e8-66b9-4b8d-a61a-68c6c2d404cb.png" width=50% height=50%>
-
